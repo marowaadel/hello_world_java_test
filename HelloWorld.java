@@ -15,6 +15,7 @@ public class HelloWorld{
                                + "arguments found.");
 */
         System.out.println("hello world 1");
+	System.out.println("hello world 2");
     }
 
      }
